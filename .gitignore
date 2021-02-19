@@ -1,0 +1,4 @@
+node_modules
+src/assets/audios/*
+!src/assets/audios/.gitkeep
+yarn.lock
